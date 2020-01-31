@@ -1,6 +1,6 @@
 # 关于
 
-最近使用 Rainmeter 的 CircuitousTwo 插件，发现天气功能由于其给出的站点已停止服务，无法显示当前天气，为此对配置文件进行了一些更改
+最近使用月饼老师~~(由于月饼老师非 CS 专业，没有 GitHub 账号，就不艾特了...)~~推荐的 Rainmeter 优化了下桌面，在使用 CircuitousTwo 插件时，发现天气功能由于其给出的站点已停止服务，无法显示当前天气，为此对配置文件进行了一些更改
 
 该站点可提供天气服务：http://tianqi.2345.com/today-54823.htm
 
@@ -10,11 +10,15 @@
 
 # 效果图
 
-鼠标移出
+整体效果图
+
+![unload successfule](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/entirety.png)
+
+天气插件鼠标移出
 
 ![unload successfule](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/mouseout.png)
 
-鼠标移入
+天气插件鼠标移入
 
 ![unload successfule](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/mouseover.png)
 
@@ -32,5 +36,3 @@
 2. 乱码，根据网页的 <meta> 标签所给的编码，设置相应的 CodePage 属性
 
 关于 CodePage 代码编号，详见：
-
-# 桌面整体效果
