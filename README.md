@@ -37,4 +37,4 @@
 1. 刷新后仍无变化，请利用所给的 Spider 自己测试正则表达式，将测试好的正则表达式替换到 RegExp 即可
 2. 乱码，根据网页的 <meta> 标签所给的编码，设置相应的 CodePage 属性
 
-关于 CodePage 代码编号，详见：
+关于 CodePage 代码编号，详见：https://alex-mcavoy.github.io/practical-skills/e9e520a4.html
