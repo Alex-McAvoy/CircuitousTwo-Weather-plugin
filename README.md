@@ -8,7 +8,7 @@
 
 测试完成后，对 CircuitousTwo 插件的 yweather.ini 进行修改，使得其可以成功显示天气
 
-~~(由于月饼老师非 CS 专业，没有 GitHub 账号，就不艾特了...)~~
+~~由于月饼老师非 CS 专业，没有 GitHub 账号，就不艾特了...~~
 
 # 效果图
 
@@ -29,7 +29,7 @@
 1. 在 Rainmeter 安装 CircuitousTwo 插件后，将 weather 文件夹整体复制进 CircuitousTwo 皮肤目录，将原有的 yweather.ini 进行替换
 2. 根据自己的城市，在提供天气的站点中寻找相应城市
 3. 编辑 yweather.ini，将 URL 替换为相应城市的 URL
-4. 在 [Rainmeter] 段中，将 MouseLeaveAction 属性值 [!SetOption subText Text "Jinan,Shandong"] 中的 "Jinan,Shandong" 设为相应城市名称
+4. 在 [Rainmeter] 段中，将 MouseOverAction 属性值 [!SetOption subText Text "Jinan,Shandong"] 中的 "Jinan,Shandong" 设为相应城市名称
 5. 保存后刷新桌面的天气插件即可
 
 # 问题说明
