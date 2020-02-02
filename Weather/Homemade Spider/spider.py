@@ -9,7 +9,7 @@ def saveData(data):
     f.close()
 
 def analysis(content):
-    res = re.search('(?s)<h1>(.*?)</h1><span class="date">.*<ul class="parameter">.*?：</b><i>(.*?)</i>.*?<span class="temperature">.*?</b>(.*?)<i>(.*?)</i>.*?<span class="temperature">.*?</b>(.*?)<i>.*?<div class="des"><h4 class="green"> (.*?)</h4>', content)
+    res = re.search('(?s)<h1>(.*?)</h1><span class="date">.*<ul class="parameter">.*?：</b><i>(.*?)</i>.*?<span class="phrase">(.*?)</span>.*?<span class="temperature">.*?</b>(.*?)<i>(.*?)</i>.*?<span class="temperature">.*?</b>(.*?)<i>.*?<div class="des"><h4 class="green"> (.*?)<', content)
     print(res.group(1))
     print(res.group(2))
     print(res.group(3))
