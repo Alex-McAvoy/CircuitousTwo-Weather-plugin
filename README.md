@@ -14,15 +14,15 @@
 
 整体效果图
 
-![unload successfule](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/entirety.png)
+![load unsuccessful](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/entirety.png)
 
 天气插件鼠标移出
 
-![unload successfule](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/mouseout.png)
+![load unsuccessful](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/mouseout.png)
 
 天气插件鼠标移入
 
-![unload successfule](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/mouseover.png)
+![load unsuccessful](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/master/images/mouseover.png)
 
 # 使用说明
 
