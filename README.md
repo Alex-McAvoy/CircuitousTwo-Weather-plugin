@@ -2,11 +2,11 @@
 
 最近使用月饼老师推荐的 Rainmeter 优化了下桌面，在使用 CircuitousTwo 插件时，发现天气功能由于其给出的站点已停止服务，无法显示当前天气，为此对配置文件进行了一些更改
 
-在1.0版本中，利用 (2345天气网)[http://tianqi.2345.com/today-54823.htm] 站点提供的天气服务来获取天气相关信息
+在1.0版本中，利用 [2345天气网](http://tianqi.2345.com/today-54823.htm) 站点提供的天气服务来获取天气相关信息
 
 在利用编写的爬虫测试完成后，对 CircuitousTwo 插件的 yweather.ini 进行修改，使得其可以成功显示天气
 
-在2.0版本中，利用免费天气api接口：(点击这里)[https://www.sojson.com/blog/305.html]来获取天气相关信息
+在2.0版本中，利用免费天气api接口：[点击这里](https://www.sojson.com/blog/305.html)来获取天气相关信息
 
 在此对提供api的作者进行感谢
 
