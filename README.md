@@ -34,6 +34,16 @@ ps：
 
 ## v2.0
 
+![load unsuccessful](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/v2.0/images/entirety.png)
+
+天气插件鼠标移出
+
+![load unsuccessful](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/v2.0/images/mouseout.png)
+
+天气插件鼠标移入
+
+![load unsuccessful](https://github.com/Alex-McAvoy/CircuitousTwo-Weather-plugin/blob/v2.0/images/mouseover.png)
+
 # 使用说明
 
 ## v1.0
